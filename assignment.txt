@@ -1,0 +1,5 @@
+Implementujte generický TABU Search nebo upravenou (diskretizovanou) jakoukoliv heuristiku dle vlastního výzkumu pro zvolenou instanci TSP.
+
+instance TSP naleznete zde:
+
+http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/
