@@ -1,0 +1,8 @@
+TABU search
+
+bayg29 (best known solution = 1610):
+my stats: min = 1725, max = 2195, mean = 1984.5, median = 1965.0, standard deviation = 117.94822310375571
+
+
+ch130 (best known solution = 6110):
+my stats: min = 10170, max = 13025, mean = 11887.466666666667, median = 12028.0, standard deviation = 775.2347056787956
